@@ -2,7 +2,7 @@
 .idea/workspace.xml
 workspace.xml
 *.db
-¼Ò»ó°øÀÎ_201906/
+ï¿½Ò»ï¿½ï¿½ï¿½ï¿½_201906/
 01_GoogleNews-vectors-negative300.bin
 01_ko.bin
 01_ko.tsv
@@ -11,6 +11,7 @@ logs/
 dogs-vs-cats/
 NYT-comments/
 model/
+googlemapskey.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
